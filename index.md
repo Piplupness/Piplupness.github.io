@@ -11,7 +11,7 @@ As a student at TJ, I realize that I've been incredibly priveledged to go to TJ.
 
 ## My Vision
 ### Synopsis
-I'm running to elevate student voices with polling and town halls by and for students to create a space where students are comfortable sharing their thoughts and suggestions. Each high school is different, and to better identify short-term issues and needs, I will to visit FCPS’s high schools and middle schools to better serve our student body. I will take these suggestions and work with the Student Advisory Council (SAC) and school board to create meaningful student-oriented changes, in pushing for more funding for mental health support and equitable technolgy access, or providing students the resources to find opportunities and take part in our school system. 
+I'm running to elevate student voices with polling and town halls by and for students to create a space where students are comfortable sharing their thoughts and suggestions. Each high school is different, and to better identify short-term issues and needs, I will visit FCPS’s high schools and middle schools to better serve our student body. I will take these suggestions and work with the Student Advisory Council (SAC) and school board to create meaningful student-oriented changes, in pushing for more funding for mental health support and equitable technolgy access, or providing students the resources to find opportunities and take part in our school system. 
 
 ### Hearing Authentic Student Voices:
 Communication lies at the root of everything; good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community.
