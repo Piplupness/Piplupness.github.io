@@ -1,4 +1,5 @@
-##Hi, I'm Brian
+## Hi, I'm Brian
+
 I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, international relations, and civic engagement. In my free time, you can find me 
 - debating in [public forum](https://activities.tjhsst.edu/pfdebate/)
 - getting tossups in [quizbowl](https://activities.tjhsst.edu/quizbowl/) 
