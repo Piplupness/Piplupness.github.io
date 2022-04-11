@@ -1,3 +1,18 @@
+##Hi, I'm Brian
+I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, international relations, and civic engagement. In my free time, you can find me 
+- debating in [public forum](https://activities.tjhsst.edu/pfdebate/)
+- getting tossups in [quizbowl](https://activities.tjhsst.edu/quizbowl/) 
+- providing a nonpartisan outlook on [electoral candidates](https://thepollingplace.org/)
+- swimming 
+
+### My Vision
+
+### Why Me?
+As a student at TJ
+
+### Contact
+
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Piplupness/Piplupness.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -34,4 +49,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.---!>
