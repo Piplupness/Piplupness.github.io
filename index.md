@@ -7,7 +7,7 @@ I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, i
 - swimming 
 
 ## Why Me?
-As a student at TJ, I realize that I have had access to wonderful opportunities that aren't accessible elsewhere, and I've been incredibly priveledged to go to TJ. That's why I seek to take my knowledge of tech and priveledge to work to uplift all of Fairfax County's high schools by creating equitable access to resources and opportunities. My goal is to visit and understand each high school's suggestions, and provide all students a voice in our school system.
+As a student at TJ, I realize that I've been incredibly priveledged to go to TJ. That's why I seek to take my knowledge of tech and priveledge to work to uplift all of Fairfax County's high schools by creating equitable access to resources and opportunities. My goal is to visit and understand each high school's suggestions, and provide all students a voice in our school system.
 
 ## My Vision
 ### Hearing Authentic Student Voices:
