@@ -1,9 +1,6 @@
 # Hi, I'm Brian
-<br/>
-<p align="center">
-<img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/245386077_412733253698035_7672171136418283478_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Xz1AXuErLhgAX_ZVhow&_nc_ht=scontent-iad3-2.xx&oh=00_AT8MbUXspJSPy7Kh9fFJgfqx1Zoc2GH9yrMJhikxcOspTg&oe=62588E82" alt="Avatar">
-</p>
-<br/>
+<p align="center"><img src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/245386077_412733253698035_7672171136418283478_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Xz1AXuErLhgAX_ZVhow&_nc_ht=scontent-iad3-2.xx&oh=00_AT8MbUXspJSPy7Kh9fFJgfqx1Zoc2GH9yrMJhikxcOspTg&oe=62588E82" alt="Avatar" height="400" width="400" /></p>
+
 I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, international relations, and civic engagement. In my free time, you can find me: 
 - debating in [public forum](https://activities.tjhsst.edu/pfdebate/)
 - getting tossups in [quizbowl](https://activities.tjhsst.edu/quizbowl/) 
