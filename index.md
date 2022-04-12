@@ -31,6 +31,7 @@ The quarterly budget helps chart the course of FCPS, and shows where our priorit
 
 - Form a student led committee to create budget summaries for students to be well informed about budget priorities
 - Create quarterly town halls for students to voice their thoughts on the budget and take ideas to the school board, inviting school board members as well to have meaningful discussions with both perspectives
+- Implement student opinion polls to coincide with key times during school board input for the [budget development cycle](https://www.fcps.edu/about-fcps/budget/budget-development-calendar) in January and May
 
 [return](https://brianzhou.me/#my-vision)
 
