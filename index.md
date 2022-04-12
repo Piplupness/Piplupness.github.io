@@ -19,8 +19,8 @@ I'm running to elevate student voices with polling and town halls by and for stu
 - **[📣 Seeking Student Voices:](https://brianzhou.me/#hearing-authentic-student-voices)** Creating solutions that work to address student needs and concerns starts with hearing student voices. Find out how I will make our voice heard.
 - **[🏦 The Budget:](https://brianzhou.me/#a-student-voice-in-the-budget)** The budget shapes our access to resources and our quality of education. See how I will make students more aware and active in the budget process.
 - **[🧠 Mental Health:](https://brianzhou.me/#mental-health)** After COVID-19, mental health has only become more important, but resources in high schools differ. Read how I plan to uplift resources and programs to make mental health a crucial part of our budget.
-- **[A Safe Space:](https://brianzhou.me/#creating-a-safe-space)** Students should feel comfortable sharing their issues with support staff. Lean how I will build trust between students and staff.
-- **[Equitable Technology and Opprtunity Access:](https://brianzhou.me/#expanding-access-and-exposure-to-opportunities-and-technology)** We can do more to make students more knowledgable about existing resources and opportunities in the county. See how I will tackle opportunity access and bridge the technology gap.
+- **[👋 A Safe Space:](https://brianzhou.me/#creating-a-safe-space)** Students should feel comfortable sharing their issues with support staff. Lean how I will build trust between students and staff.
+- **[💻 Equitable Technology and Opprtunity Access:](https://brianzhou.me/#expanding-access-and-exposure-to-opportunities-and-technology)** We can do more to make students more knowledgable about existing resources and opportunities in the county. See how I will tackle opportunity access and bridge the technology gap.
 
 ### Hearing Authentic Student Voices:
 Communication lies at the root of everything; good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community.
