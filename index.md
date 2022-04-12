@@ -1,5 +1,7 @@
 <p align="center"><img style="border-radius:50%" src="https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/245386077_412733253698035_7672171136418283478_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=Xz1AXuErLhgAX_ZVhow&_nc_ht=scontent-iad3-2.xx&oh=00_AT8MbUXspJSPy7Kh9fFJgfqx1Zoc2GH9yrMJhikxcOspTg&oe=62588E82" class="Avatar" height="200" width="200" /></p>
 
+<p align="center"><a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
+
 # Hi, I'm Brian
 
 I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, international relations, and civic engagement. In my free time, you can find me: 
@@ -8,8 +10,6 @@ I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, i
 - providing a nonpartisan outlook on [electoral candidates](https://thepollingplace.org/)
 - swimming 
 
-<p align="center"><a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
-
 ## Why Me?
 As a student at TJ, I realize that I've been incredibly priveledged to go to TJ. That's why I seek to take my knowledge of tech and priveledge to work to uplift all of Fairfax County's high schools by creating equitable access to resources and opportunities. My goal is to visit and understand each high school's suggestions, and provide all students a voice in our school system. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
 
@@ -17,10 +17,14 @@ As a student at TJ, I realize that I've been incredibly priveledged to go to TJ.
 ### Synopsis
 I'm running to elevate student voices with polling and town halls by and for students to create a space where students are comfortable sharing their thoughts and suggestions. Each high school is different, and to better identify short-term issues and needs, I will visit FCPS’s high schools and middle schools to better serve our student body. I will take these suggestions and work with the Student Advisory Council (SAC) and school board to create meaningful student-oriented changes, in pushing for more funding for mental health support and equitable technolgy access, or providing students the resources to find opportunities and take part in our school system. 
 
+- **[The Budget:](https://brianzhou.me/#a-student-voice-in-the-budget)** The budget shapes our access to resources and our quality of education. We as students should be active in the budget process and have a place to make our voices heard
+
 ### Hearing Authentic Student Voices:
 Communication lies at the root of everything; good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community.
 
 I aim to create a student-led task force to poll students and hear their suggestions and comments on how the county can improve. Each high school is different and may have different wants and needs, so I aim to work with the SAC representatives and student governments from each high school to create open-ended questions related to each high school. Using this information, I want to provide the school board with a bi-annual report highlighting both the voices of our student body and of our unique high schools, and work to create constructive and meaningful solutions that can help tackle pain points for students, and help build a community by and for everyone.
+
+[return](https://brianzhou.me/#my-vision)
 
 ### A Student Voice in the Budget:
 The quarterly budget helps chart the course of FCPS, and shows where our priorities as a community lie. However, students can’t voice their input or participate in how our school board determines budget priorities. I seek to:
