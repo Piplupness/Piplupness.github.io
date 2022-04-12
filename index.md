@@ -16,8 +16,8 @@ As a student at TJ, I realize that I've been incredibly priveledged to go to TJ.
 ## My Vision
 ### Synopsis
 I'm running to elevate student voices with polling and town halls by and for students to create a space where students are comfortable sharing their thoughts and suggestions. Each high school is different, and to better identify short-term issues and needs, I will visit FCPS’s high schools and middle schools to better serve our student body. I will take these suggestions and work with the Student Advisory Council (SAC) and school board to create meaningful student-oriented changes, in pushing for more funding for mental health support and equitable technolgy access, or providing students the resources to find opportunities and take part in our school system. 
-
-- **[The Budget:](https://brianzhou.me/#a-student-voice-in-the-budget)** The budget shapes our access to resources and our quality of education. We as students should be active in the budget process and have a place to make our voices heard
+- **[📣 Seeking Student Voices:](https://brianzhou.me/#hearing-authentic-student-voices) 
+- **[🏦 The Budget:](https://brianzhou.me/#a-student-voice-in-the-budget)** The budget shapes our access to resources and our quality of education. We as students should be active in the budget process and have a place to make our voices heard
 
 ### Hearing Authentic Student Voices:
 Communication lies at the root of everything; good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community.
@@ -31,6 +31,8 @@ The quarterly budget helps chart the course of FCPS, and shows where our priorit
 
 - Form a student led committee to create budget summaries for students to be well informed about budget priorities
 - Create quarterly town halls for students to voice their thoughts on the budget and take ideas to the school board, inviting school board members as well to have meaningful discussions with both perspectives
+
+[return](https://brianzhou.me/#my-vision)
 
 ### Mental Health: 
 Our mental health has never been more important than now. Nearly all of us have been impacted by the pandemic in some way, and our return to in-person instruction has presented new challenges for our mental health. 
@@ -46,10 +48,14 @@ I want to help students improve their mental well-being in ways they find comfor
   - Encourage increased student interaction and connection with their counselors and support staff as they navigate high school
   - Work for county-level recognition of Our Minds Matter and encourage the development of OMM chapters
 
+[return](https://brianzhou.me/#my-vision)
+
 ### Creating a Safe Space:
 The education system supports students and their parents, and to better support students, we can communicate what information their parents will receive about them. Some examples come to mind, with student climate surveys, SEL screeners and wellness screenings, where students were unaware their parents received a letter with a rating attached to topics like belonging and decision-making, or that answering honestly might require counselors to call their parents.
 
 I want to push to make it mandatory that students are made aware which situations would involve their parents. This is similar to letting patients know about a therapist’s mandatory reporting before therapy or your privacy rights on social media, as it helps make people conscious of what they respond with. I also want to work to allow parents to access the full context and results of these surveys; numerical scores can not paint a complete picture of their children’s thoughts and feelings, and rating their responses is a poor way of reflecting areas they can improve. Preparing both students and parents for these discussions allows them to have better discussions and productive results from the screeners.
+
+[return](https://brianzhou.me/#my-vision)
 
 ### Expanding access and exposure to opportunities and technology: 
 FCPS prepares graduates for post-secondary education and teaches us core life skills in leadership, collaboration, and communication. Resources and opportunities are core ways we can be more prepared as students to become global citizens. However, excellent resources and opportunities are under-advertised and underutilized in the county, especially to those who may need them. How many students are aware that FCPS has a personal hotspot program or internet subsidies for students on free or reduced lunch? I want to advocate for the county as a whole to increase access and exposure to academic and extracurricular opportunities alongside education infrastructure throughout a student’s K-12 education 
@@ -57,6 +63,8 @@ FCPS prepares graduates for post-secondary education and teaches us core life sk
 To expand exposure, I want to create a student-run website available to everyone, listing upcoming opportunities, upcoming enrichment events, and FCPS technology and education programs. A website could help bring attention to opportunities for academic and personal enrichment and help compile information on opportunities such as dual enrollment available to students and summer programs or online courses, reducing the amount of research necessary on the student’s end. The aim of this would be to give students the resources, information, and exposure necessary for them to pursue what is interesting and enriching to them, and take advantage of FCPS programs. 
 
 To expand access, I seek to analyze the FCPS budget. Specifically, I want to review the Capital Improvement Program (CIP) and the quarterly budget with the goal of reducing the strain on overcapacity schools and minimizing the impact of renovations on student education. In addition to that, I want to hear student feedback on current programs such as FCPSOn and MiFi, and even the new tutoring program, to recommend expansions or changes the school board could enact to help students who may not have access to stable internet at home necessary for success in the 21st century. Finally, I want to work to expand the online course catalog with offerings for all students to seek academic enrichment. 
+
+[return](https://brianzhou.me/#my-vision)
 
 ## Contact
 Feel free to contact me at [bzhou2024@gmail.com](mailto:bzhou2024@gmail.com), or through any of the socials below! I'd love to hear your thoughts and suggestions.
