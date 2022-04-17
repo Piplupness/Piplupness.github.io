@@ -1,4 +1,4 @@
-<p align="center"><img style="border-radius:50%" src="png.jpg" class="Avatar" height="200" width="200" /></p>
+<p align="center"><img style="border-radius:50%" src="pfp.jpg" class="Avatar" height="200" width="200" /></p>
 
 <p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
