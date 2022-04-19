@@ -3,8 +3,7 @@
 <p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
 # Hi, I'm Brian
-## Why Me?
-I've been incredibly priveledged to go to TJ. I seek to take my knowledge of tech and priveledge to work to uplift all of Fairfax County's high schools by creating equitable access to resources, technology, and opportunities. My goal is to visit each high school to understand  their needs and suggestions, and to provide all students a voice in our school system. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
+I'm a student at TJ who debates, swims, plays quizbowl, jams to music, and tries to get some sleep. I've been incredibly priveledged to go to TJ, and we should provide the same level of access to opportunity and technology to everyone in FCPS. I seek to take my knowledge of tech and priveledge to work with the SAC to uplift all of Fairfax County's high schools by creating equitable access to resources, technology, and opportunities. My goal is to visit each high school to understand  their needs and suggestions, and to provide all students a voice in our school system. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
 
 ## My Vision
 ### Synopsis
