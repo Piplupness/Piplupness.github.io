@@ -3,13 +3,6 @@
 <p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
 # Hi, I'm Brian
-
-I'm a sophomore at [TJHSST](https://tjhsst.fcps.edu/) with a passion for math, international relations, and civic engagement. In my free time, you can find me: 
-- debating in [public forum](https://activities.tjhsst.edu/pfdebate/)
-- getting tossups in [quizbowl](https://activities.tjhsst.edu/quizbowl/) 
-- providing a nonpartisan outlook on [electoral candidates](https://thepollingplace.org/)
-- swimming 
-
 ## Why Me?
 I've been incredibly priveledged to go to TJ. I seek to take my knowledge of tech and priveledge to work to uplift all of Fairfax County's high schools by creating equitable access to resources, technology, and opportunities. My goal is to visit each high school to understand  their needs and suggestions, and to provide all students a voice in our school system. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
 
