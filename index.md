@@ -1,6 +1,6 @@
 <p align="center"><img style="border-radius:50%" src="pfp.jpg" class="Avatar" height="200" width="200" /></p>
 
-<p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://drive.google.com/drive/u/0/folders/1NDhiSbzBDF6e0APn_6bEuBxOIw2JaxBO">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
+<p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
 # Hi, I'm Brian
 I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researches political candidates, and tries to get some sleep. From what I've learned as PF co-captain this year and as an advocate for AP Euro, I've seen that we can do more to seek student voices and initiatives. As someone passionate about statistics and data, I want to leverage polling and surveys for us to gather information to drive and create meaningful change. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
@@ -13,7 +13,7 @@ I’m running to be the secretary that elevates student voices to find concerns 
 - **[📖 Expanding Course Offerings:](https://brianzhou.me/#expanding-course-offerings)** Expanding Course Offerings: From Euro History and Art History to post-AP Bio and STEM classes, we all have passions we want to pursue in the classroom. I will make that happen.
 - **[📑 Extracurricular Initiatives:](https://brianzhou.me/#extracurricular-initiatives)** We have ideas for events, initiatives, and projects. The SGA should provide logistical support for extracurricular initiatives and be their advocate to the school and related bodies.
 - **[👋 A Safe Space:](https://brianzhou.me/#creating-a-safe-space)** Students should feel comfortable sharing their issues with support staff. Lean how I will build trust between students and staff.
-- **[💻 Information Access:](https://brianzhou.me/#expanding-access-and-exposure-to-opportunities-and-technology)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
+- **[💻 Information Access:](https://brianzhou.me/#information-access)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
 - **[🏫 Representing us to FCPS:]()**
 
 ### Hearing Authentic Student Voices:
@@ -25,7 +25,7 @@ As SGA Secretary, I will create an Excomm task force to poll students and hear t
 
 We are also amazingly fortunate to have so many wonderful organizations in TJ and outside TJ whose goals are aligned with our success: the Finance office, Activities office, eighth period office, the Partnership Fund, PTSA, Academic Boosters, and Athletic Boosters. They graciously sponsor our clubs, activities, and events; they are our advocates. As SGA Secretary, I will create new ways for students to interact with these organizations through the SGA. My goal is to create a streamlined process where people with ideas for something amazing that can help our community can go through SGA to find support from these great organizations for funding and logistical support. 
 
-To summarize, I will:
+I will thus:
  - Create a monthly or bi-monthly anonymous survey open to feedback on a range of topics with places for written feedback
  - Implement time-sensitive polls for gathering suggestions on upcoming events
  - Establish a centralized location summarizing the various administrative offices, support organizations at TJ, and TJ student government, alongside a guide for who to contact for what matters
@@ -53,7 +53,7 @@ There are also so many courses we could try introducing. Take [Ethical Leadershi
 
 To find course ideas with interest, I will implement specific course questions in the SGA surveys ([see above](https://brianzhou.me/#hearing-authentic-student-voiceshttps://brianzhou.me/#hearing-authentic-student-voices)) to find interesting ideas and release interest surveys and town halls in early December to gauge student interest and suggestions for suggested courses.
 
-To summarize, I will:
+I will thus:
  - Implement a process for new courses to be suggested
    - Establish a start of the year town hall with a chance for students to share course ideas and pitch curriculums to department teachers to hear feedback and grow their ideas 
    - Arrange follow-up meetings with the administration to evaluate the suggestions’ feasibility and create a course synopsis that can be used to gauge student interest
@@ -63,35 +63,21 @@ To summarize, I will:
 
 [return](https://brianzhou.me/#my-vision)
 
-### Mental Health: 
-Our mental health has never been more important than now. Nearly all of us have been impacted by the pandemic in some way, and our return to in-person instruction has presented new challenges for our mental health. 
-
-While resources for mental health have been improving, many still do not use the resources available to them. This may be because they either are unaware or are uncomfortable accessing these resources. Additionally, mental health resources are drastically different across high schools - while some may have a wellness room, dedicated support staff, and student-led mental health clubs, other high schools may not.
-
-I want to help students improve their mental well-being in ways they find comfortable. I would aim to 
-
-- Push for more funding for mental health in the budget
-  - Bring on full-time psychologists and social workers for each high school
-  - Require the creation of open areas in all schools where students can talk with other students, meet with counselors, or talk to school psychologists, social workers, or Systems of Support Advisors (SOSA)’s
-- Advocate for more discussion about our mental health
-  - Encourage increased student interaction and connection with their counselors and support staff as they navigate high school
-  - Work for county-level recognition of Our Minds Matter and encourage the development of OMM chapters
+### Extracurrricular Initiatives: 
 
 [return](https://brianzhou.me/#my-vision)
 
 ### Creating a Safe Space:
-The education system supports students and their parents, and to better support students, we can communicate what information their parents will receive about them. Some examples come to mind, with student climate surveys, SEL screeners and wellness screenings, where students were unaware their parents received a letter with a rating attached to topics like belonging and decision-making, or that answering honestly might require counselors to call their parents.
+Students should feel comfortable sharing their issues with support staff. Learn how I will build trust between students and staff.
 
-I want to push to make it mandatory that students are made aware which situations would involve their parents. This is similar to letting patients know about a therapist’s mandatory reporting before therapy or your privacy rights on social media, as it helps make people conscious of what they respond with. I also want to work to allow parents to access the full context and results of these surveys; numerical scores can not paint a complete picture of their children’s thoughts and feelings, and rating their responses is a poor way of reflecting areas they can improve. Preparing both students and parents for these discussions allows them to have better discussions and productive results from the screeners.
+The education system supports students and their parents, and to better support students, we can communicate what information their parents will receive about them. Some examples come to mind, with student climate surveys, SEL screeners, and wellness screenings, where students were unaware their parents received a letter with a rating attached to topics like belonging and decision-making, or that answering honestly might require counselors to call their parents.
+
+I want to push to make it mandatory that students are made aware of which situations would involve their parents. This is similar to letting patients know about a therapist’s mandatory reporting before therapy or your privacy rights on social media, as it helps make people conscious of what they respond with. I also want to work to allow parents to access the full context and results of these surveys; numerical 1-5 scores can not paint a complete picture of their children’s thoughts and feelings, and rating their responses is a poor way of reflecting areas they can improve. Preparing both students and parents for these discussions allows them to have better discussions and productive results from the screeners.
 
 [return](https://brianzhou.me/#my-vision)
 
-### Expanding access and exposure to opportunities and technology: 
-FCPS prepares graduates for post-secondary education and teaches us core life skills in leadership, collaboration, and communication. Resources and opportunities are core ways we can be more prepared as students to become global citizens. However, excellent resources and opportunities are under-advertised and under-utilized in the county, especially to those who may need them. How many students are aware that FCPS has a personal hotspot program for students or internet subsidies for students on free or reduced lunch? I want to advocate for the county as a whole to increase access and exposure to academic and extracurricular opportunities alongside education infrastructure throughout a student’s K-12 education 
+### Information Access: 
 
-To expand exposure, I want to create a student-run website available to everyone, listing upcoming opportunities, upcoming enrichment events, and FCPS technology and education programs. A website could help bring attention to opportunities for academic and personal enrichment and help compile information on opportunities such as dual enrollment available to students and summer programs or online courses, reducing the amount of research necessary on the student’s end. The aim of this would be to give students the resources, information, and exposure necessary for them to pursue what is interesting and enriching to them, and take advantage of FCPS programs. 
-
-To expand access, I seek to analyze the FCPS budget. Specifically, I want to review the Capital Improvement Program (CIP) and the quarterly budget with the goal of reducing the strain on overcapacity schools and minimizing the impact of renovations on student education. In addition to that, I want to hear student feedback on current programs such as FCPSOn and MiFi, and even the new tutoring program, to recommend expansions or changes the school board could enact to help students who may not have access to stable internet at home necessary for success in the 21st century. Finally, I want to work to expand the online course catalog with offerings for all students to seek academic enrichment. 
 
 [return](https://brianzhou.me/#my-vision)
 
