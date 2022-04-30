@@ -25,6 +25,13 @@ As SGA Secretary, I will create an Excomm task force to poll students and hear t
 
 We are also amazingly fortunate to have so many wonderful organizations in TJ and outside TJ whose goals are aligned with our success: the Finance office, Activities office, eighth period office, the Partnership Fund, PTSA, Academic Boosters, and Athletic Boosters. They graciously sponsor our clubs, activities, and events; they are our advocates. As SGA Secretary, I will create new ways for students to interact with these organizations through the SGA. My goal is to create a streamlined process where people with ideas for something amazing that can help our community can go through SGA to find support from these great organizations for funding and logistical support. 
 
+To summarize, I will:
+ - Create a monthly or bi-monthly anonymous survey open to feedback on a range of topics with places for written feedback
+ - Implement time-sensitive polls for gathering suggestions on upcoming events
+ - Establish a centralized location summarizing the various administrative offices, support organizations at TJ, and TJ student government, alongside a guide for who to contact for what matters
+ - Streamline the process for people who want to host tournaments, activities, or outreach initiatives at TJ
+ - Expand Bon Appetit to other administrators and groups around TJ
+
 [return](https://brianzhou.me/#my-vision)
 
 ### Expanding Course Offerings:
@@ -44,7 +51,15 @@ A solution I want to implement as SGA secretary is a rotating schedule, where cl
 
 There are also so many courses we could try introducing. Take [Ethical Leadership, introduced in 2019](https://www.tjtoday.org/25453/features/taking-the-lead/#) or [Yoga in 2020](https://www.tjtoday.org/27869/news/yoga-class-offered-for-the-2020-2021-school-year/). We’re certainly a STEM school, but what makes TJ great is its excellence in every subject. We could have classes in finance or post-AP biology offerings; there are so many ideas for classes that we can find interest for if we have a place to gather interest.
 
-To find course ideas with interest, I will implement specific course questions in the SGA surveys (see above) to find interesting ideas and release interest surveys and town halls in early December to gauge student interest and suggestions for suggested courses.
+To find course ideas with interest, I will implement specific course questions in the SGA surveys ([see above](https://brianzhou.me/#hearing-authentic-student-voiceshttps://brianzhou.me/#hearing-authentic-student-voices)) to find interesting ideas and release interest surveys and town halls in early December to gauge student interest and suggestions for suggested courses.
+
+To summarize, I will:
+ - Implement a process for new courses to be suggested
+   - Establish a start of the year town hall with a chance for students to share course ideas and pitch curriculums to department teachers to hear feedback and grow their ideas 
+   - Arrange follow-up meetings with the administration to evaluate the suggestions’ feasibility and create a course synopsis that can be used to gauge student interest
+ - Work with counselors to create a time-sensitive course interest survey to gauge potential or committed interest for currently existing but unstaffed courses and student-proposed ideas for courses
+ - Evaluate the feasibility of offering classes on a semifrequent basis to prevent people from losing interest in courses over time
+ - Create top-down transparency with the master schedule and staffing decisions to find out why certain courses are no longer offered and seek ideas to develop solutions
 
 [return](https://brianzhou.me/#my-vision)
 
