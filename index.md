@@ -13,22 +13,38 @@ I’m running to be the secretary that elevates student voices to find concerns 
 - **[📖 Expanding Course Offerings:](https://brianzhou.me/#expanding-course-offerings)** Expanding Course Offerings: From Euro History and Art History to post-AP Bio and STEM classes, we all have passions we want to pursue in the classroom. I will make that happen.
 - **[📑 Extracurricular Initiatives:](https://brianzhou.me/#extracurricular-initiatives)** We have ideas for events, initiatives, and projects. The SGA should provide logistical support for extracurricular initiatives and be their advocate to the school and related bodies.
 - **[👋 A Safe Space:](https://brianzhou.me/#creating-a-safe-space)** Students should feel comfortable sharing their issues with support staff. Lean how I will build trust between students and staff.
-- **[💻 Equitable Technology and Opprtunity Access:](https://brianzhou.me/#expanding-access-and-exposure-to-opportunities-and-technology)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
+- **[💻 Information Access:](https://brianzhou.me/#expanding-access-and-exposure-to-opportunities-and-technology)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
 - **[🏫 Representing us to FCPS:]()**
 
 ### Hearing Authentic Student Voices:
-Communication lies at the root of everything; good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community.
+Communication lies at the root of everything; we need to communicate to share our thoughts and ideas from anything ranging from SEL to academics. Good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community. I aim to create channels of communication between both students and SGA/the school, as well as between students and TJ-related organizations.
 
-I aim to create a student-led task force to poll students and hear their suggestions and comments on how the county can improve. Each high school is different and may have different wants and needs, so I aim to work with the SAC representatives and student governments from each high school to create open-ended questions related to each high school. Using this information, I want to provide the school board with a bi-annual report highlighting both the voices of our student body and of our unique high schools, and work to create constructive and meaningful solutions that can help tackle pain points for students, and help build a community by and for everyone.
+We all have amazing ideas that can make real change in the community. The SGA should support these ideas every step of the way. 
+
+As SGA Secretary, I will create an Excomm task force to poll students and hear their suggestions and comments on where we can improve. I aim to include open-ended questions related to issues that students in specific classes or specific grad years may be facing so that we can reflect on the issues that are most important to everyone. Using this information, I want to establish public SGA town halls to go over suggestions and hear community input to create transparent and meaningful solutions that can help tackle pain points for students, and help build a community by and for everyone.
+
+We are also amazingly fortunate to have so many wonderful organizations in TJ and outside TJ whose goals are aligned with our success: the Finance office, Activities office, eighth period office, the Partnership Fund, PTSA, Academic Boosters, and Athletic Boosters. They graciously sponsor our clubs, activities, and events; they are our advocates. As SGA Secretary, I will create new ways for students to interact with these organizations through the SGA. My goal is to create a streamlined process where people with ideas for something amazing that can help our community can go through SGA to find support from these great organizations for funding and logistical support. 
 
 [return](https://brianzhou.me/#my-vision)
 
-### A Student Voice in the Budget:
-The quarterly budget helps chart the course of FCPS, and shows where our priorities as a community lie. However, students can’t voice their input or participate in how our school board determines budget priorities. I seek to:
+### Expanding Course Offerings:
+There is a worrying trend of courses slowly being removed over time, to not be offered again. This isn’t limited to one department or field. See some recent and late examples:
+ - Japanese 1 and 2, which resulted in a TJ teacher being moved to Lake Braddock this year to teach
+   - This is a common trend among language departments with the 1 and 2 language courses. If we don’t act now, it is likely all language departments will face existential staffing threats.
+ - Probability Theory & Concrete Math, which was removed from the course catalog just this year
+ - AP European History, which is on the course catalog but was unstaffed nearly a decade ago and has not been offered since.
+ - AP Art History, similar to AP Euro in being on the course catalog but not offered in recent years
+ - Cryptography, a math course offered [around and before 2016](https://www.tjtoday.org/17339/showcase/semester-long-math-courses-do-not-provide-students-with-enough-time-to-learn-the-curriculum/#modal-photo)
 
-- Form a student led committee to create budget summaries for students to be well informed about budget priorities
-- Create quarterly town halls for students to voice their thoughts on the budget and take ideas to the school board, inviting school board members as well to have meaningful discussions with both perspectives
-- Implement student opinion polls to coincide with key times during school board input for the [budget development cycle](https://www.fcps.edu/about-fcps/budget/budget-development-calendar) in January and May
+It’s understandable that budget cuts and tight schedules might result in courses not being staffed. But we can do more as a school and as students to show our interest in courses we want to take and create a system to have novel courses offered.
+
+For the past two years, I’ve tried to build interest for AP Euro specifically, by trying to make the staffing process more transparent to interested students and organizing surveys to see where student interest lies. I’ve seen that that is a step in the right direction, but that we can only make courses offered when we have a unified framework for all classes, gathering more people and more backing.
+
+A solution I want to implement as SGA secretary is a rotating schedule, where classes with limited or enough interest to field a class every two years would rotate with a similar class with a similar level of interest. Working with counselors and the school, we could potentially survey students to find courses with overlapping interest and build a schedule with rotating courses. This would allow for teachers to continue to stay at TJ and for people to have a chance to take any of the classes they are interested in. Take a rotating schedule between Euro and a Asian history course, or a schedule between two math courses.
+
+There are also so many courses we could try introducing. Take [Ethical Leadership, introduced in 2019](https://www.tjtoday.org/25453/features/taking-the-lead/#) or [Yoga in 2020](https://www.tjtoday.org/27869/news/yoga-class-offered-for-the-2020-2021-school-year/). We’re certainly a STEM school, but what makes TJ great is its excellence in every subject. We could have classes in finance or post-AP biology offerings; there are so many ideas for classes that we can find interest for if we have a place to gather interest.
+
+To find course ideas with interest, I will implement specific course questions in the SGA surveys (see above) to find interesting ideas and release interest surveys and town halls in early December to gauge student interest and suggestions for suggested courses.
 
 [return](https://brianzhou.me/#my-vision)
 
