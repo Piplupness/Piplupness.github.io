@@ -3,7 +3,7 @@
 <p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://drive.google.com/drive/u/0/folders/1NDhiSbzBDF6e0APn_6bEuBxOIw2JaxBO">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
 # Hi, I'm Brian
-I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researches political candidates, and tries to get some sleep. I've been incredibly priveledged to go to TJ, and we should provide the same level of access to opportunity and technology to everyone in FCPS. I seek to take my knowledge of tech and priveledge to work with the SAC to uplift all of Fairfax County's high schools by creating equitable access to resources, technology, and opportunities. My goal is to visit each high school to understand  their needs and suggestions, and to provide all students a voice in our school system. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
+I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researches political candidates, and tries to get some sleep. From what I've learned as PF co-captain this year and as an advocate for AP Euro, I've seen that we can do more to seek student voices and initiatives. As someone passionate about statistics and data, I want to leverage polling and surveys for us to gather information to drive and create meaningful change. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
 
 ## My Vision
 ### Synopsis
