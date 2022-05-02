@@ -53,7 +53,7 @@ There are also so many courses we could try introducing. Take [Ethical Leadershi
 
 To find course ideas with interest, I will implement specific course questions in the SGA surveys ([see above](https://brianzhou.me/#hearing-authentic-student-voiceshttps://brianzhou.me/#hearing-authentic-student-voices)) to find interesting ideas and release interest surveys and town halls in early December to gauge student interest and suggestions for suggested courses.
 
-I will thus:
+__**I will thus:**__
  - Implement a process for new courses to be suggested
    - Establish a start of the year town hall with a chance for students to share course ideas and pitch curriculums to department teachers to hear feedback and grow their ideas 
    - Arrange follow-up meetings with the administration to evaluate the suggestions’ feasibility and create a course synopsis that can be used to gauge student interest
