@@ -70,7 +70,7 @@ Specifically, I want to compile and release an information packet for prospectiv
 
 I aim to also expand on current initiatives such as extending the duration of activities fair and scope to all students across a longer time period.
 
-I will thus:
+**I will thus:**
  - Streamline the process for people who want to host tournaments, activities, or outreach initiatives at TJ
  - Find relevant information to create a TJ events packet
  - Expand the scope and duration of activities fair
