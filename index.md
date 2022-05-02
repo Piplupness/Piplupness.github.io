@@ -29,7 +29,6 @@ We are also amazingly fortunate to have so many wonderful organizations in TJ an
  - Create a monthly or bi-monthly anonymous survey open to feedback on a range of topics with places for written feedback
  - Implement time-sensitive polls for gathering suggestions on upcoming events
  - Establish a centralized location summarizing the various administrative offices, support organizations at TJ, and TJ student government, alongside a guide for who to contact for what matters
- - Streamline the process for people who want to host tournaments, activities, or outreach initiatives at TJ
  - Expand Bon Appetit to other administrators and groups around TJ
 
 [return](https://brianzhou.me/#my-vision)
