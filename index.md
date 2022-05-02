@@ -68,11 +68,14 @@ I will thus:
 [return](https://brianzhou.me/#my-vision)
 
 ### Creating a Safe Space:
-Students should feel comfortable sharing their issues with support staff. Learn how I will build trust between students and staff.
-
 The education system supports students and their parents, and to better support students, we can communicate what information their parents will receive about them. Some examples come to mind, with student climate surveys, SEL screeners, and wellness screenings, where students were unaware their parents received a letter with a rating attached to topics like belonging and decision-making, or that answering honestly might require counselors to call their parents.
 
 I want to push to make it mandatory that students are made aware of which situations would involve their parents. This is similar to letting patients know about a therapist’s mandatory reporting before therapy or your privacy rights on social media, as it helps make people conscious of what they respond with. I also want to work to allow parents to access the full context and results of these surveys; numerical 1-5 scores can not paint a complete picture of their children’s thoughts and feelings, and rating their responses is a poor way of reflecting areas they can improve. Preparing both students and parents for these discussions allows them to have better discussions and productive results from the screeners.
+
+I will thus:
+ - Push for the expansion of climate surveys to more than numbers and for results to include the context of questions asked during the screener
+ - Work with school administration to create channels where people are comfortable speaking up and establish transparency for when there is reporting
+ - Actively seek student input on where we as a school can improve with our mental health resources
 
 [return](https://brianzhou.me/#my-vision)
 
