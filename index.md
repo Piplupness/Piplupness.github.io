@@ -25,7 +25,7 @@ As SGA Secretary, I will create an Excomm task force to poll students and hear t
 
 We are also amazingly fortunate to have so many wonderful organizations in TJ and outside TJ whose goals are aligned with our success: the Finance office, Activities office, eighth period office, the Partnership Fund, PTSA, Academic Boosters, and Athletic Boosters. They graciously sponsor our clubs, activities, and events; they are our advocates. As SGA Secretary, I will create new ways for students to interact with these organizations through the SGA. My goal is to create a streamlined process where people with ideas for something amazing that can help our community can go through SGA to find support from these great organizations for funding and logistical support. 
 
-I will thus:
+**I will thus:**
  - Create a monthly or bi-monthly anonymous survey open to feedback on a range of topics with places for written feedback
  - Implement time-sensitive polls for gathering suggestions on upcoming events
  - Establish a centralized location summarizing the various administrative offices, support organizations at TJ, and TJ student government, alongside a guide for who to contact for what matters
@@ -53,7 +53,7 @@ There are also so many courses we could try introducing. Take [Ethical Leadershi
 
 To find course ideas with interest, I will implement specific course questions in the SGA surveys ([see above](https://brianzhou.me/#hearing-authentic-student-voiceshttps://brianzhou.me/#hearing-authentic-student-voices)) to find interesting ideas and release interest surveys and town halls in early December to gauge student interest and suggestions for suggested courses.
 
-__**I will thus:**__
+**I will thus:**
  - Implement a process for new courses to be suggested
    - Establish a start of the year town hall with a chance for students to share course ideas and pitch curriculums to department teachers to hear feedback and grow their ideas 
    - Arrange follow-up meetings with the administration to evaluate the suggestions’ feasibility and create a course synopsis that can be used to gauge student interest
@@ -72,7 +72,7 @@ The education system supports students and their parents, and to better support 
 
 I want to push to make it mandatory that students are made aware of which situations would involve their parents. This is similar to letting patients know about a therapist’s mandatory reporting before therapy or your privacy rights on social media, as it helps make people conscious of what they respond with. I also want to work to allow parents to access the full context and results of these surveys; numerical 1-5 scores can not paint a complete picture of their children’s thoughts and feelings, and rating their responses is a poor way of reflecting areas they can improve. Preparing both students and parents for these discussions allows them to have better discussions and productive results from the screeners.
 
-I will thus:
+**I will thus:**
  - Push for the expansion of climate surveys to more than numbers and for results to include the context of questions asked during the screener
  - Work with school administration to create channels where people are comfortable speaking up and establish transparency for when there is reporting
  - Actively seek student input on where we as a school can improve with our mental health resources
@@ -84,7 +84,7 @@ Excellent resources and opportunities are under-advertised and under-utilized in
 
 There are a lot of questions we can compile answers to guide us throughout their time at TJ. Academics-wise: what is pass-fail? When should someone take summer TJ or summer FCPS? How do I navigate course selections? Community wise: what are the traditions like? What clubs related to my interests exist? There are great initiatives and people that already help tackle the information gap: from curriculum fair to BigSibs and TowardsTJ, and the amazing Ms. Connelly. I will take the next step, working to partner with clubs, initiatives, and administrators to build a repository of advice and information for TJ students of all levels. This would help list upcoming opportunities, upcoming enrichment events, student benefits, advice, and information on TJ’s unique programs. 
 
-I will thus:
+**I will thus:**
  - Establish a website to summarize opportunities and deadlines for students of all grade levels alongside advice and academic/extracurricular information
  - Create a calendar that can be filtered for academic deadlines, initiatives, or TJ opportunities that students and administrators can submit additions to via Ion
 
