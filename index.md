@@ -64,6 +64,16 @@ To find course ideas with interest, I will implement specific course questions i
 [return](https://brianzhou.me/#my-vision)
 
 ### Extracurrricular Initiatives: 
+We have ideas for club events, outreach initiatives, and projects. I want to establish a process for the SGA to provide logistical support for extracurricular initiatives and be their advocate to the school and stakeholders.
+
+Specifically, I want to compile and release an information packet for prospective organizers detailing the process of starting initiatives at TJ for a range of activities, from STEM outreach to hosting tournaments. This packet would cover the fundraising process alongside relevant points of contact with stakeholders, and a way to contact the SGA for SGA assistance and logistical support.  
+
+I aim to also expand on current initiatives such as extending the duration of activities fair and scope to all students across a longer time period.
+
+I will thus:
+ - Streamline the process for people who want to host tournaments, activities, or outreach initiatives at TJ
+ - Find relevant information to create a TJ events packet
+ - Expand the scope and duration of activities fair
 
 [return](https://brianzhou.me/#my-vision)
 
