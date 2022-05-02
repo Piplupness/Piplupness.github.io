@@ -21,7 +21,7 @@ Communication lies at the root of everything; we need to communicate to share ou
 
 We all have amazing ideas that can make real change in the community. The SGA should support these ideas every step of the way. 
 
-As SGA Secretary, I will create an Excomm task force to poll students and hear their suggestions and comments on where we can improve. I aim to include open-ended questions related to issues that students in specific classes or specific grad years may be facing so that we can reflect on the issues that are most important to everyone. Using this information, I want to establish public SGA town halls to go over suggestions and hear community input to create transparent and meaningful solutions that can help tackle pain points for students, and help build a community by and for everyone.
+As SGA Secretary, I will create an Excomm task force to poll students and hear their suggestions and comments on where we can improve. I aim to include open-ended questions related to issues that students in specific classes or specific grad years may be facing so that we can reflect on the issues that are most important to everyone. I will make sure answering this survey is **anonymous** and all questions are **optional** so there is no burden on speaking up. Using this information, I want to establish public SGA town halls to go over suggestions and hear community input to create transparent and meaningful solutions that can help tackle pain points for students, and help build a community by and for everyone.
 
 We are also amazingly fortunate to have so many wonderful organizations in TJ and outside TJ whose goals are aligned with our success: the Finance office, Activities office, eighth period office, the Partnership Fund, PTSA, Academic Boosters, and Athletic Boosters. They graciously sponsor our clubs, activities, and events; they are our advocates. As SGA Secretary, I will create new ways for students to interact with these organizations through the SGA. My goal is to create a streamlined process where people with ideas for something amazing that can help our community can go through SGA to find support from these great organizations for funding and logistical support. 
 
@@ -81,7 +81,7 @@ Excellent resources and opportunities are under-advertised and under-utilized in
 
 There are a lot of questions we can compile answers to guide us throughout their time at TJ. Academics-wise: what is pass-fail? When should someone take summer TJ or summer FCPS? How do I navigate course selections? Community wise: what are the traditions like? What clubs related to my interests exist? There are great initiatives and people that already help tackle the information gap: from curriculum fair to BigSibs and TowardsTJ, and the amazing Ms. Connelly. I will take the next step, working to partner with clubs, initiatives, and administrators to build a repository of advice and information for TJ students of all levels. This would help list upcoming opportunities, upcoming enrichment events, student benefits, advice, and information on TJ’s unique programs. 
 
-To summarize, I will:
+I will thus:
  - Establish a website to summarize opportunities and deadlines for students of all grade levels alongside advice and academic/extracurricular information
  - Create a calendar that can be filtered for academic deadlines, initiatives, or TJ opportunities that students and administrators can submit additions to via Ion
 
