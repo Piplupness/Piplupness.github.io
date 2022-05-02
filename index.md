@@ -77,7 +77,13 @@ I want to push to make it mandatory that students are made aware of which situat
 [return](https://brianzhou.me/#my-vision)
 
 ### Information Access: 
+From student benefits to advice on academics and extracurriculars for students, there is more we can do to make information available.
 
+There are a lot of questions we can compile answers to guide us throughout their time at TJ. Academics-wise: what is pass-fail? When should someone take summer TJ or summer FCPS? How do I navigate course selections? Community wise: what are the traditions like? What clubs related to my interests exist? There are great initiatives and people that already help tackle the information gap: from curriculum fair to BigSibs and TowardsTJ, and the amazing Ms. Connelly. I will take the next step, working to partner with clubs, initiatives, and administrators to build a repository of advice and information for TJ students of all levels. This would help list upcoming opportunities, upcoming enrichment events, student benefits, advice, and information on TJ’s unique programs. 
+
+To summarize, I will:
+ - Establish a website to summarize opportunities and deadlines for students of all grade levels alongside advice and academic/extracurricular information
+ - Create a calendar that can be filtered for academic deadlines, initiatives, or TJ opportunities that students and administrators can submit additions to via Ion
 
 [return](https://brianzhou.me/#my-vision)
 
