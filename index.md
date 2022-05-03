@@ -111,6 +111,33 @@ The purpose of the SAC is both to provide student policy input and to allow for 
 
 [return](https://brianzhou.me/#my-vision)
 
+## My Experience
+I have been heavily involved in activities at TJ, serving as co-captain of Public Forum Debate and JV Liaison of Quizbowl. My experiences have given me a unique background in working with TJ teachers, administrators (Finance office, Eighth Period Office, and Activities Office), and stakeholders (Academic Boosters and the Partnership Fund) in launching new initiatives and logistics.
+
+As co-captain of TJ’s Public Forum Debate team, I increased outreach and participation by doubling club size alongside making local tournaments free and substantially reducing national tournament costs. Alongside my co-captain and officers, I:
+ - Coordinated and launched a mentorship initiative with more than 40 mentees and 10 mentors participating and additional outreach initiatives
+ - Introduced new resources including a tournament calendar and eighth period calendar, which consolidated tournament registration information and lecture recordings and schedules for members to view. 
+ - Personally created the club website to help make resources more available to club members.
+ - Prioritized communication, highlighting achievements and upcoming events and tournaments on Facebook and through email 
+ - Spearheaded a finance drive to raise funds that help us make competing more accessible for everyone, raising more than $4,000 with the help of bake sales, grants, and boosters support. 
+ - Waived entry fees at local tournaments, various qualifiers & Metrofinals, and significantly reduced costs at national tournaments for our club members. 
+
+My work with the debate team is a snapshot of my values and qualifications. I believe in making opportunities more accessible through financial support, educational support, and improving access to resources. I also seek to help make programs and education accessible to everyone, providing resources to each group to help them uplift their experiences. To accomplish this, I seek the input and opinions of my peers and coaches to make solutions that help all of us thrive.
+
+I’m also the JV Liaison at TJ Quizbowl, where I represent the underclassmen to the club. I’ve implemented more transparency in club communications, and created new initiatives:
+ - Started weekly Quizbowl readings since July 2021 with around 10 members attending each week and over 90 total throughout the course of the year. This created a platform for us to meet friends and bring people from all interests together during COVID. The club grew to nearly 70 freshman members to 37 upperclassmen. 
+ - Launched a housewrite initiative to encourage learning for underclassmen members
+ - Ensured consistent club communication
+ - Organized logistics from bake sale to phone-a-thon
+ - Worked to advocate for members including tryout makeups and transparency
+ - Created club website to highlight club activities
+
+I’ve made sure that my constituents' voices are heard, advocating for more communication between leadership and JV members and providing our voice and thoughts to club leadership. I also host open forums where I can hear the concerns of my peers, to convey these thoughts to the sponsors and other officers, where we can work to create meaningful change. In the past, I’ve worked to create anonymous misconduct reporting forms as well as talked one on one with club members to hear their grievances and suggestions with the club.
+
+Quizbowl taught me a lot of things. There are so many ways we as a community and as individuals can help each other who may be going through crises and hardship. It also taught me how to represent and advocate for ourselves to club leadership and our sponsor, and showed me that so many of my peers have ideas for what they want to change, we just need to listen and help them make it happen.
+
+As SGA Secretary, I will seek to bridge divides and work with other students to help create our advocacy. My prior leadership will enable me to be a consensus-builder with other students and staff to create platforms and places where we can find our voice.
+
 ## Contact
 Feel free to contact me at [bzhou2024@gmail.com](mailto:bzhou2024@gmail.com), or through any of the socials below! I'd love to hear your thoughts and suggestions.
 
