@@ -1,6 +1,6 @@
 <p align="center"><img style="border-radius:50%" src="pfp.jpg" class="Avatar" height="200" width="200" /></p>
 
-<p align="center"><a href="https://brianzhou.me/#hi-im-brian">Meet Me</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
+<p align="center"><a href="https://brianzhou.me/#hi-im-brian">Who am I?</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
 # Hi, I'm Brian
 I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researches political candidates, and tries to get some sleep. From what I've learned as PF co-captain this year and as an advocate for AP Euro, I've seen that we can do more to seek student voices and initiatives. As someone passionate about statistics and data, I want to leverage polling and surveys for us to gather information to drive and create meaningful change. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
@@ -29,7 +29,7 @@ We are also amazingly fortunate to have so many wonderful organizations in TJ an
  - Create a monthly or bi-monthly anonymous survey open to feedback on a range of topics with places for written feedback
  - Implement time-sensitive polls for gathering suggestions on upcoming events
  - Establish a centralized location summarizing the various administrative offices, support organizations at TJ, and TJ student government, alongside a guide for who to contact for what matters
- - Expand Bon Appetit to other administrators and groups around TJ
+ - Expand Open Forums (meetings with Dr. Bonitatibus) to other administrators and groups around TJ
 
 [return](https://brianzhou.me/#my-vision)
 
@@ -107,6 +107,7 @@ The purpose of the SAC is both to provide student policy input and to allow for 
 **I will thus:**
  - Establish town halls centerd around the [budget development cycle](https://www.fcps.edu/about-fcps/budget/budget-development-calendar) to hear our input
  - Advertise and spread word of SGA meetings and surveys before SAC meetings to hear student input
+ - Work with student leaders and county administrators to create periods where students can meet directly with county staff and ask questions or share their thoughts
 
 [return](https://brianzhou.me/#my-vision)
 
