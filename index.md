@@ -7,13 +7,13 @@ I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researche
 
 ## My Vision
 ### Synopsis
-I’m running to be the secretary that elevates student voices to find concerns and places where we can improve through anonymous polling and climate surveys with open-ended questions and responses. We all have ideas and visions for how TJ can be even better than it already is. We have opportunities to voice our ideas and suggestions, but these meetings are infrequent and under-advertised, and people may simply not be comfortable sharing criticism directly with administrators.
+I’m running to be the secretary that elevates student voices to find concerns and places where we can improve. We all have ideas and visions for how TJ can be even better than it already is. Even though we have opportunities to voice our ideas and suggestions, we can do more to actively seek out voices. I want to acomplish this through open-ended and anonymous polling. 
 
 - **[📣 Seeking Student Voices:](https://brianzhou.me/#hearing-authentic-student-voices)** Creating solutions that work to address student needs and concerns starts with hearing student voices. Find out how I will make our voice heard.
 - **[📖 Expanding Course Offerings:](https://brianzhou.me/#expanding-course-offerings)** Expanding Course Offerings: From Euro History and Art History to post-AP Bio and STEM classes, we all have passions we want to pursue in the classroom. I will make that happen.
 - **[📑 Extracurricular Initiatives:](https://brianzhou.me/#extracurricular-initiatives)** We have ideas for events, initiatives, and projects. The SGA should provide logistical support for extracurricular initiatives and be their advocate to the school and related bodies.
 - **[👋 A Safe Space:](https://brianzhou.me/#creating-a-safe-space)** Students should feel comfortable sharing their issues with support staff. Lean how I will build trust between students and staff.
-- **[💻 Information Access:](https://brianzhou.me/#information-access)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
+- **[💻 Student Life & Information Access:](https://brianzhou.me/#information-access)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
 - **[🏫 Representing us to FCPS:]()**
 
 ### Hearing Authentic Student Voices:
@@ -89,13 +89,24 @@ I want to push to make it mandatory that students are made aware of which situat
 [return](https://brianzhou.me/#my-vision)
 
 ### Information Access: 
-Excellent resources and opportunities are under-advertised and under-utilized in the county and at TJ. From student benefits to shining a spotlight on opportunities and providing a platform for advice on academics and extracurriculars, there is more we can do to make information available.
+Excellent resources and opportunities are under-advertised and under-utilized in the county and at TJ. From student benefits to shining a spotlight on opportunities and providing a platform for advice on academics, extracurriculars, and spirit, there is more we can do to make information available.
 
 There are a lot of questions we can compile answers to guide us throughout their time at TJ. Academics-wise: what is pass-fail? When should someone take summer TJ or summer FCPS? How do I navigate course selections? Community wise: what are the traditions like? What clubs related to my interests exist? There are great initiatives and people that already help tackle the information gap: from curriculum fair to BigSibs and TowardsTJ, and the amazing Ms. Connelly. I will take the next step, working to partner with clubs, initiatives, and administrators to build a repository of advice and information for TJ students of all levels. This would help list upcoming opportunities, upcoming enrichment events, student benefits, advice, and information on TJ’s unique programs and create a place to serve as the hub for info on student life. 
 
 **I will thus:**
- - Establish a website to summarize opportunities and deadlines for students of all grade levels alongside advice and academic/extracurricular information
+ - Establish a student life website to summarize opportunities and deadlines for students of all grade levels alongside advice and academic/extracurricular information
  - Create a calendar that can be filtered for academic deadlines, initiatives, or TJ opportunities that students and administrators can submit additions to via Ion
+
+[return](https://brianzhou.me/#my-vision)
+
+### Representing us to FCPS: 
+The SGA serves as the representatives to the Student Advisory Council (SAC) to the FCPS superintendent, meaning that your vote helps shape FCPS-wide policy. As a part of my effort to make our ideas and voices heard, I aim to elevate our advocacy into policy solutions through polling.
+
+The purpose of the SAC is both to provide student policy input and to allow for each high school's ideas to be heard. My priority would be to create town halls and meetings at TJ so that the SGA can better shape FCPS-wide policy with the perspectives of all of TJ and not just the four representatives. I will work with the SGA to ensure that both our Student Representative to the School Board and superintendent hears our priorities, thoughts, and concerns.
+
+**I will thus:**
+ - Establish town halls centerd around the [budget development cycle](https://www.fcps.edu/about-fcps/budget/budget-development-calendar) to hear our input
+ - Advertise and spread word of SGA meetings and surveys before SAC meetings to hear student input
 
 [return](https://brianzhou.me/#my-vision)
 
