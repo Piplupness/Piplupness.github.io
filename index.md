@@ -1,6 +1,6 @@
 <p align="center"><img style="border-radius:50%" src="pfp.jpg" class="Avatar" height="200" width="200" /></p>
 
-<p align="center"><a href="https://brianzhou.me/#hi-im-brian">Who am I?</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
+<p align="center"><a href="https://brianzhou.me/#hi-im-brian">Who am I?</a> | <a href="https://brianzhou.me/#why-me">Why Me</a> | <a href="https://brianzhou.me/#my-vision">My Vision</a> | <a href="https://docs.google.com/document/d/1jlIA3QWNKtS_O7BZLpfeAhPlVmH-kr6Z9j9CTSQb3Ew/edit?usp=sharing">Ion Platform</a> | <a href="">My Experience</a> | <a href="https://brianzhou.me/#contact">Contact</a></p>
 
 # Hi, I'm Brian
 I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researches political candidates, and tries to get some sleep. From what I've learned as PF co-captain this year and as an advocate for AP Euro, I've seen that we can do more to seek student voices and initiatives. As someone passionate about statistics and data, I want to leverage polling and surveys for us to gather information to drive and create meaningful change. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
