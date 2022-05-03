@@ -10,7 +10,7 @@ We all have passions. We all have visions. We see things that can be better, thi
 
 My passions have shaped my voice and perspective. My love for history and desire to learn more led me to advocate for the school to offer AP Euro. My passion for debate drove me to build a team that broke down barriers to entry. There are so many things at all levels we can do to improve our school and our community, and we all can create change for things that we are passionate about. 
 
-My priorities are to hear your voices and passions, and to record and advocate for you every step of the way. From buildling a place to discover student life to hearing your input on TJ-wide and countywide policy, my goal is to uplift your voice.
+My priorities are to hear your voices and passions, and to record and advocate for you every step of the way. From building a place to discover student life to hearing your input on TJ-wide and countywide policy, my goal is to uplift your voice.
 
 ## My Vision
 ### Synopsis
