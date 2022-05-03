@@ -5,9 +5,16 @@
 # Hi, I'm Brian
 I'm a student at TJ who debates, swims, plays quizbowl, jams to music, researches political candidates, and tries to get some sleep. From what I've learned as PF co-captain this year and as an advocate for AP Euro, I've seen that we can do more to seek student voices and initiatives. As someone passionate about statistics and data, I want to leverage polling and surveys for us to gather information to drive and create meaningful change. If you have any questions or suggestions, feel free to [contact me](https://brianzhou.me/#contact)!
 
+## Why Me
+We all have passions. We all have visions. We see things that can be better, things that can be more transparent, or things that can be started at TJ. We want to build a place at TJ for us to explore our passions. We need a place where we can share our suggestions publicly or anonymously, and the support and backing to drive forward our initiatives and ideas. SGA is a bridge between students, the school, and FCPS, and SGA is our place to build change.
+
+My passions have shaped my voice and perspective. My love for history and desire to learn more led me to advocate for the school to offer AP Euro. My passion for debate drove me to build a team that broke down barriers to entry. There are so many things at all levels we can do to improve our school and our community, and we all can create change for things that we are passionate about. 
+
+My priorities are to hear your voices and passions, and to record and advocate for you every step of the way. From buildling a place to discover student life to hearing your input on TJ-wide and countywide policy, my goal is to uplift your voice.
+
 ## My Vision
 ### Synopsis
-I’m running to be the secretary that elevates student voices to find concerns and places where we can improve. We all have ideas and visions for how TJ can be even better than it already is. Even though we have opportunities to voice our ideas and suggestions, we can do more to actively seek out voices. I want to acomplish this through open-ended and anonymous polling. 
+I’m running to be the secretary that elevates student voices to find concerns and places where we can improve. We all have ideas and visions for how TJ can be even better than it already is. Even though we have opportunities to voice our ideas and suggestions, we can do more to actively seek out voices. I want to acomplish this through open-ended anonymous polling and increased awareness to existing initiatives.
 
 - **[📣 Seeking Student Voices:](https://brianzhou.me/#hearing-authentic-student-voices)** Creating solutions that work to address student needs and concerns starts with hearing student voices. Find out how I will make our voice heard.
 - **[📖 Expanding Course Offerings:](https://brianzhou.me/#expanding-course-offerings)** Expanding Course Offerings: From Euro History and Art History to post-AP Bio and STEM classes, we all have passions we want to pursue in the classroom. I will make that happen.
@@ -132,9 +139,9 @@ I’m also the JV Liaison at TJ Quizbowl, where I represent the underclassmen to
  - Worked to advocate for members including tryout makeups and transparency
  - Created club website to highlight club activities
 
-I’ve made sure that my constituents' voices are heard, advocating for more communication between leadership and JV members and providing our voice and thoughts to club leadership. I also host open forums where I can hear the concerns of my peers, to convey these thoughts to the sponsors and other officers, where we can work to create meaningful change. In the past, I’ve worked to create anonymous misconduct reporting forms as well as talked one on one with club members to hear their grievances and suggestions with the club.
+I’ve also made sure that underclassmen voices are heard, advocating for more communication between leadership and JV members and creating lines of communication between people and our coach.
 
-Quizbowl taught me a lot of things. There are so many ways we as a community and as individuals can help each other who may be going through crises and hardship. It also taught me how to represent and advocate for ourselves to club leadership and our sponsor, and showed me that so many of my peers have ideas for what they want to change, we just need to listen and help them make it happen.
+Quizbowl taught me a lot of things. There are so many ways we as a community and as individuals can do to launch initiatives that have meaningful effects in the community. It also taught me how to represent and advocate for ourselves to club leadership and our sponsor, and showed me that so many of my peers have ideas for what they want to change, we just need to listen and help them make it happen.
 
 As SGA Secretary, I will seek to bridge divides and work with other students to help create our advocacy. My prior leadership will enable me to be a consensus-builder with other students and staff to create platforms and places where we can find our voice.
 
