@@ -14,7 +14,7 @@ I’m running to be the secretary that elevates student voices to find concerns 
 - **[📑 Extracurricular Initiatives:](https://brianzhou.me/#extracurricular-initiatives)** We have ideas for events, initiatives, and projects. The SGA should provide logistical support for extracurricular initiatives and be their advocate to the school and related bodies.
 - **[👋 A Safe Space:](https://brianzhou.me/#creating-a-safe-space)** Students should feel comfortable sharing their issues with support staff. Lean how I will build trust between students and staff.
 - **[💻 Student Life & Information Access:](https://brianzhou.me/#information-access)** We have so many unique opportunities at TJ, and we can do more to make students more knowledgeable about existing resources and opportunities. See how I aim to bring awareness of opportunities mainstream.
-- **[🏫 Representing us to FCPS:]()**
+- **[🏫 Representing us to FCPS:](https://brianzhou.me/#representing-us-to-fcps)** The SGA also serves as the four members to FCPS's Student Advisory Council (SAC). I want to bring all our voices to the superintendent's table.
 
 ### Hearing Authentic Student Voices:
 Communication lies at the root of everything; we need to communicate to share our thoughts and ideas from anything ranging from SEL to academics. Good communication between the school and students means that resources can be utilized, voices can be heard, and we can build an inclusive and welcoming community. I aim to create channels of communication between both students and SGA/the school, as well as between students and TJ-related organizations.
